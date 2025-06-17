@@ -3,3 +3,7 @@
 	url = file:///C:/Users/Jesus/OneDrive/Documentos/GitHub/cafemanagerb
 	branch = main
 
+[submodule "frontend"]
+	path = frontend
+	url = file:///C:/Users/Jesus/cafemanagerf
+	branch = main
