@@ -1,9 +1,9 @@
 [submodule "backend"]
 	path = backend
-	url = file:///C:/Users/Jesus/OneDrive/Documentos/GitHub/cafemanagerb
+	url = https://github.com/PanDuro14/cafemanagerBackend.git
 	branch = main
 
 [submodule "frontend"]
 	path = frontend
-	url = file:///C:/Users/Jesus/cafemanagerf
+	url = https://github.com/PanDuro14/cafemanagerf.git
 	branch = main
