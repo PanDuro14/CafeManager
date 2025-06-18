@@ -18,8 +18,10 @@ git submodule update --recursive --remote
 cd backend 
 git add .
 git commit -m "Backend para el proyecto 'CafeManager'
+git push origin main
 
 # Actualizar modulo de frontend (cuando pueda agregarloxd)
 cd frontend
 git add . 
 git commit - m "Fronten para el proyecto 'CafeManager'"
+git push origin main
